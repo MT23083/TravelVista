@@ -1,0 +1,340 @@
+{
+    "places_with_reviews": [
+        {
+            "name": "Kukudanga Picnic Spot",
+            "rating": 4.3,
+            "address": "V4MW+7GP, Angul - Talcher Rd, Nalco Nagar, Kukudanga, Kurudol Kurudul part, Odisha 759123, India",
+            "reviews": [
+                {
+                    "text": "Nice place to visit for chilling with family and friends.",
+                    "languageCode": "en",
+                    "rating": 4.3
+                },
+                {
+                    "text": "Very good places angul \u2764\ufe0f\ud83d\ude07\nI love kukudanga picnic park spot",
+                    "languageCode": "en",
+                    "rating": 4.3
+                },
+                {
+                    "text": "The place may be dengerous.But the place is awesome.Natural views, Mountains,Park, Rivers is mind blowing",
+                    "languageCode": "en",
+                    "rating": 4.3
+                },
+                {
+                    "text": "Peaceful riding on the place",
+                    "languageCode": "en",
+                    "rating": 4.3
+                },
+                {
+                    "text": "Food quality is okay type not Bhubaneswar city level.",
+                    "languageCode": "en",
+                    "rating": 4.3
+                }
+            ],
+            "preprocessed_reviews": [
+                "friends nice visit family chilling",
+                "picnic love park places spot good kukudanga angul",
+                "views may dengerousbut awesomenatural blowing rivers mountainspark mind",
+                "peaceful riding",
+                "okay quality type level bhubaneswar city food"
+            ]
+        },
+        {
+            "name": "Nalco Nagar Masjid",
+            "rating": 4.7,
+            "address": "R4XX+4XW, Nalco Nagar, Angul, NALCO, Odisha 759145, India",
+            "reviews": [
+                {
+                    "text": "One of my best mosque in angul to nalco peace and best place for namaz... Friday time 1:30 ... Plz go for namaz regularly... Allah hafiz...",
+                    "languageCode": "en",
+                    "rating": 4.7
+                },
+                {
+                    "text": "Very good & peace environment.",
+                    "languageCode": "en",
+                    "rating": 4.7
+                },
+                {
+                    "text": "One of the most calm, peace & green environment phenomenal masjid",
+                    "languageCode": "en",
+                    "rating": 4.7
+                },
+                {
+                    "text": "Masjid is located in a very peaceful place. Muslim brothers seen offering namaz here.",
+                    "languageCode": "en",
+                    "rating": 4.7
+                },
+                {
+                    "text": "Fantastic place.very peaceful area",
+                    "languageCode": "en",
+                    "rating": 4.7
+                }
+            ],
+            "preprocessed_reviews": [
+                "peace best mosque hafiz allah plz namaz nalco friday time go regularly angul one",
+                "peace environment good",
+                "phenomenal calm peace green environment masjid one",
+                "located offering masjid namaz peaceful muslim brothers seen",
+                "placevery peaceful area fantastic"
+            ]
+        },
+        {
+            "name": "Shree Jagannath Temple Nalco Nagar",
+            "rating": 4.7,
+            "address": "V525+WG8, Nalco Nagar, Angul, Odisha 759145, India",
+            "reviews": [
+                {
+                    "text": "The Jagannath Temple in NALCO Nagar, Angul, stands as a beacon of spirituality, its majestic architecture and serene ambiance offering a welcome respite from the everyday hustle. The sprawling complex exudes a palpable sense of peace, drawing devotees and seekers alike with its quiet charm.\n\nHowever, a closer look reveals that the temple, while beautiful, suffers from a lack of recent development and upkeep. The Bhujanalaya, once a vibrant space for prayer and gatherings, now shows signs of neglect, yearning for restoration and revitalization. The verdant grounds, though spacious, could benefit from additional greenery, with fragrant flowers and strategically placed gardens further enhancing the serene atmosphere.\n\nImagine stepping into a courtyard adorned with vibrant marigolds and hibiscus, their fragrance mingling with the sacred hymns. Picture manicured gardens offering pockets of tranquility, inviting quiet reflection amidst the temple's hustle and bustle. Such thoughtful landscaping would not only beautify the space but also create dedicated areas for devotion and contemplation.\n\nWhile the existing architecture remains impressive, a touch of rejuvenation could go a long way. Consider repainting faded murals, repairing minor structural imperfections, and ensuring consistent cleanliness. These seemingly small improvements would significantly enhance the overall visitor experience and reflect the temple's sacred significance.\n\nThe Jagannath Temple in NALCO Nagar holds immense potential to be a thriving center of faith and community. By addressing the areas of development and upkeep, this peaceful haven can reclaim its full glory and continue to serve as a cherished landmark for generations to come.",
+                    "languageCode": "en",
+                    "rating": 4.7
+                },
+                {
+                    "text": "In my recent visit I found this jagannath temple is  very clean and well maintained. They have a large and spacious campus. The temple garden is also well maintained.\nIf I talk about \"Anand bazar\" then it's a well maintained and big space for having \"prasad\".\n\nIf you are visiting the nalco colony then it's a must visit place. The place is quiet,calm and peaceful.\n\nBut one thing I didn't get, why they have not painted the sculptures and decoratives. It was looking dull and reducing the overall experience of the temple. Otherwise its good  experience.",
+                    "languageCode": "en",
+                    "rating": 4.7
+                },
+                {
+                    "text": "I visited on 1st Jan 2024, which was a very peaceful place and well maintained.",
+                    "languageCode": "en",
+                    "rating": 4.7
+                },
+                {
+                    "text": "This place has all my childhood. I used to play in the stage after eating food from the Anand Bazaar.Today in fourth Febuary, we are going for the replacement of the old Bhimla idol with the new idol made with eight metals. \u0b1c\u0b5f \u0b1c\u0b17\u0b28\u0b4d\u0b28\u0b3e\u0b25 \u2b55\u2757\u2b55",
+                    "languageCode": "en",
+                    "rating": 4.7
+                },
+                {
+                    "text": "Temples of Shri Jagannath, Shiv ji, Mata Parvati, Shri Ganesh ji are here. It's a very beautiful and peaceful place.",
+                    "languageCode": "en",
+                    "rating": 4.7
+                }
+            ],
+            "preprocessed_reviews": [
+                "beacon addressing fragrance lack stands signs murals beautiful prayer potential landmark restoration spacious picture architecture rejuvenation sprawling significance devotees repairing space existing palpable respite could angul dedicated stepping enhancing placed significantly temple cherished bhujanalaya benefit nalco sacred verdant devotion shows faded inviting also bustle cleanliness serve though charm strategically areas immense sense overall vibrant suffers holds small recent yearning greenery consistent glory minor thriving revitalization hymns look remains drawing improvements quiet flowers full long development imagine beautify impressive enhance peaceful tranquility reclaim contemplation atmosphere touch majestic repainting offering experience reveals create consider hibiscus jagannath go however temples seemingly gardens pockets reflection way thoughtful manicured landscaping visitor would serene generations closer complex mingling community peace seekers upkeep hustle additional grounds adorned everyday nagar center structural reflect gatherings fragrant ambiance imperfections continue courtyard marigolds alike welcome come neglect amidst exudes faith spirituality ensuring",
+                "campus painted didnt looking temple peaceful nalco talk large visiting dull experience also quietcalm jagannath thing reducing overall garden clean spacious otherwise decoratives recent sculptures must colony big good space well get one anand bazar prasad visit found maintained",
+                "visited jan peaceful st maintained well",
+                "stage replacement fourth bazaartoday made play childhood going old febuary new metals bhimla eating eight food anand used idol",
+                "ji shiv mata beautiful parvati shri temples peaceful jagannath ganesh"
+            ]
+        },
+        {
+            "name": "Kurudol Pahada (Hill)",
+            "rating": 4.7,
+            "address": "V4GW+2FX, Unnamed Road, Nalco Nagar, Kurudol Kurudul part, Angul, Odisha 759123, India",
+            "reviews": [
+                {
+                    "text": "Good view",
+                    "languageCode": "en",
+                    "rating": 4.7
+                },
+                {
+                    "text": "Nice viewpoint. You can take your car right up to the top of hill. A place to hangout in the early morning or evening.",
+                    "languageCode": "en",
+                    "rating": 4.7
+                },
+                {
+                    "text": "You can see Nalco CPP, Smelter, Jindal, Monnet, Thermal Power Plant, Angul town, FCI at a time on the top of hill.",
+                    "languageCode": "en",
+                    "rating": 4.7
+                },
+                {
+                    "text": "Good \ud83d\udc4d",
+                    "languageCode": "en",
+                    "rating": 4.7
+                },
+                {
+                    "text": "Its a very calm and peaceful place.",
+                    "languageCode": "en",
+                    "rating": 4.7
+                }
+            ],
+            "preprocessed_reviews": [
+                "view good",
+                "morning hangout early viewpoint take right nice top hill car evening",
+                "plant time smelter power thermal fci jindal cpp top nalco see hill monnet angul town",
+                "good",
+                "peaceful calm"
+            ]
+        },
+        {
+            "name": "Shree Maa Hingula Temple",
+            "rating": 4.2,
+            "address": "R5PC+68W, Kulad Part, Angul, Odisha 759145, India",
+            "reviews": [
+                {
+                    "text": "Very nice temple with natural fire occurring every year",
+                    "languageCode": "en",
+                    "rating": 4.2
+                },
+                {
+                    "text": "Spiritual place",
+                    "languageCode": "en",
+                    "rating": 4.2
+                },
+                {
+                    "text": "Old and silent place must visit once atleast",
+                    "languageCode": "en",
+                    "rating": 4.2
+                },
+                {
+                    "text": "A place which acctually gives peace to piligrims.",
+                    "languageCode": "en",
+                    "rating": 4.2
+                },
+                {
+                    "text": "Nothing much to see here except the temple.",
+                    "languageCode": "en",
+                    "rating": 4.2
+                }
+            ],
+            "preprocessed_reviews": [
+                "temple nice fire every year occurring natural",
+                "spiritual",
+                "silent visit must atleast old",
+                "acctually gives peace piligrims",
+                "nothing except temple much see"
+            ]
+        },
+        {
+            "name": "Church",
+            "rating": 4.2,
+            "address": "R4R3+MPR, Similipada, Angul, Odisha 759122, India",
+            "reviews": [
+                {
+                    "text": "This one is a BAPIST CHURCH. This is established in the year 1916, i.e. before independence. This is a spiritual place. This is  situated besides NH55. This is at a distance of half kilometer from hotel kalpataru, 200 meters from hotel Raj, 100 kilometers from upcoming Angul new bus stand. This place is very calm & quiet.",
+                    "languageCode": "en",
+                    "rating": 4.2
+                },
+                {
+                    "text": "I have attended service here as a teenager. I was impressed by the hospitality of the present Pastor who was a perfect stranger.",
+                    "languageCode": "en",
+                    "rating": 4.2
+                },
+                {
+                    "text": "Lord Jesus always best for us. Special thanks fr the arrangements and place. So neat & clean. Everybody must have to go & seet to get the peace & fresh",
+                    "languageCode": "en",
+                    "rating": 4.2
+                },
+                {
+                    "text": "The Church is The place Where i find Peace,You can Go and Pray With Comfort. This Church Is Example Church is For Everyone",
+                    "languageCode": "en",
+                    "rating": 4.2
+                },
+                {
+                    "text": "It's one of the oldest church in this town. Britishers had been coming this church for prayers in the '50s.",
+                    "languageCode": "en",
+                    "rating": 4.2
+                }
+            ],
+            "preprocessed_reviews": [
+                "quiet spiritual kilometers meters situated established distance kilometer church independence new ie bapist kalpataru hotel year stand one calm half nh besides upcoming raj angul bus",
+                "stranger teenager impressed pastor hospitality attended perfect service present",
+                "peace neat fresh seet thanks jesus go special clean everybody lord us arrangements must get best fr always",
+                "pray example peaceyou everyone find church comfort go",
+                "coming britishers church prayers oldest town one"
+            ]
+        },
+        {
+            "name": "Shiv Temple",
+            "rating": 4,
+            "address": "R4V9+MG3, National Highway-42, Turanga, Angul, Odisha 759122, India",
+            "reviews": [
+                {
+                    "text": "Accuracy is very good\nU can easily found everything",
+                    "languageCode": "en",
+                    "rating": 4
+                }
+            ],
+            "preprocessed_reviews": [
+                "easily found good everything accuracy u"
+            ]
+        },
+        {
+            "name": "Hanuman vatika",
+            "rating": 5,
+            "address": "R5R5+QPH, Kulad, Angul, Odisha 759145, India",
+            "reviews": [
+                {
+                    "text": "My happy place, blessed to be around Hanuman Ji, forever grateful. Nice people in this area. This place Refreshes my mood.\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f",
+                    "languageCode": "en",
+                    "rating": 5
+                },
+                {
+                    "text": "Best temple inside our house",
+                    "languageCode": "en",
+                    "rating": 5
+                },
+                {
+                    "text": "Jay shree ram\ud83d\udea9\ud83d\udea9\ud83d\udea9",
+                    "languageCode": "en",
+                    "rating": 5
+                },
+                {
+                    "text": "Jai Hanuman \ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f",
+                    "languageCode": "en-US",
+                    "rating": 5
+                }
+            ],
+            "preprocessed_reviews": [
+                "ji forever area refreshes nice around hanuman grateful people mood blessed happy",
+                "temple house best inside",
+                "jay shree ram",
+                "hanuman jai"
+            ]
+        },
+        {
+            "name": "Turang",
+            "rating": 4.3,
+            "address": "R4VH+386, NH55, Turanga, Angul, Kandasar Part, Odisha 759122, India",
+            "reviews": [
+                {
+                    "text": "Love it",
+                    "languageCode": "en",
+                    "rating": 4.3
+                }
+            ],
+            "preprocessed_reviews": [
+                "love"
+            ]
+        },
+        {
+            "name": "Maa Hingula Temple",
+            "rating": 4.6,
+            "address": "V5FF+F7F, Balaram Prasad, Balaramprasadpatna Part, Odisha 759123, India",
+            "reviews": [
+                {
+                    "text": "Should be improve\nBeauty \ud83c\udf1f\ud83c\udf1f\ud83c\udf1f\nPandit \ud83c\udf1f\ud83c\udf1f\nEnvironment \ud83c\udf1f\ud83c\udf1f",
+                    "languageCode": "en",
+                    "rating": 4.6
+                },
+                {
+                    "text": "It is one of the another temple of maa Hingula with Gopalaprasad Hingula temple. Hingula yatra one of the main puja celebrate here.",
+                    "languageCode": "en",
+                    "rating": 4.6
+                },
+                {
+                    "text": "Nice temple. Visit here for peacefull day in ur busy life",
+                    "languageCode": "en",
+                    "rating": 4.6
+                },
+                {
+                    "text": "Temples are always a great place.\nThis place offers a silent environment like others.",
+                    "languageCode": "en",
+                    "rating": 4.6
+                },
+                {
+                    "text": "\ud83d\udc90\ud83d\ude4f\ud83c\udffb",
+                    "languageCode": "en",
+                    "rating": 4.6
+                }
+            ],
+            "preprocessed_reviews": [
+                "pandit improve beauty environment",
+                "maa temple yatra puja another main gopalaprasad celebrate hingula one",
+                "ur temple peacefull nice day visit busy life",
+                "temples great environment like silent offers others always",
+                ""
+            ]
+        }
+    ]
+}

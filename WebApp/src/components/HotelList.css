@@ -1,0 +1,49 @@
+.hotel-list {
+    font-family: Arial, sans-serif;
+    width: 90%;
+    margin: auto;
+  }
+  
+  h2 {
+    text-align: center;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .hotel-item {
+    margin-bottom: 10px;
+    padding: 10px;
+  }
+  
+  .hotel-info {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .rating-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 60px; 
+    height: 30px;
+    border-radius: 5px;
+    margin-left: 10px;
+  }
+  
+  .rating-box p {
+    margin: 0;
+  }
+  
+  .address-review {
+    margin-top: 10px;
+    align-items: left;
+  }
+  
+  .review {
+    margin-top: 5px;
+    align-items: left;
+  }
+  
