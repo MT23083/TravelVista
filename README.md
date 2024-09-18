@@ -1,4 +1,4 @@
-# TravelVista
+# TravelVista: Your Personalized Travel Planner with Literary Escapades
 
 Well!! How about simplifying your travel planning and giving you a smooth experience when you are still grappling around with the thought about places.
 
