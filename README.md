@@ -28,4 +28,14 @@ Do explore our website and get to know TravelVista .... with the power of LLMs.
 * Augmented Dataset is used to give necessary context for the Langchain model to perform better and gain useful insights from the data which we have.
 * Dataset is restricted to India right now for all the three contents which we are going to present through our system.
 
+## Implementation
 
+* City Recommendation: We have manually curated the dataset for city recommendation, using authentic sources like Google Real time Map API and chatgpt, supervised manually by the team. The dataset consists of Destination/City Name, Region, State, User Reviews and a general description (content) of the place. For all the reviews, content are concatenated, we are using FAISS Index to store the embeddings of each entry and then using BERT based Langchain Model for mapping the user query to each embedding. We are using BERT and Langchain since we have to find the best matching places by understanding the users' intent and sentiment and then ranking as well (Matching + Ranking). Therefore, Langchain helps to provide this facility more accurately than just using LLMs like BERT or DistilBERT.
+
+* Hotel and Places to Visit Ranking: For ranking the hotels and places to visit within the selected city, we have used a custom ranking algorithm. For hotels and places having rating >= 3.7 are considered as good otherwise bad. Good and Bad words are taken out from the reviews accordingly. Each review is matched with the Good and bad word list and a cosine similarity score is calculated and the results are ranked accordingly.
+
+* Itinerary Generation: Using Map API and LLMs like Gemini, we have carefully curated two suitable itineraries for the user.
+
+* Engagement Score Calculator: We employ a mechanism where the system gets insights from the user engagements on the webiste, for eg, time he/she spends on a particular destination - taken from cursor hovering time, viewing more images of 1 category, or patterns of dissatisfaction as a feedback for the system. This helps us to understand the user requirements better.
+
+![Diagram of the architecture](TravelVista Diagram.png)
