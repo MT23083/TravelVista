@@ -38,4 +38,4 @@ Do explore our website and get to know TravelVista .... with the power of LLMs.
 
 * Engagement Score Calculator: We employ a mechanism where the system gets insights from the user engagements on the webiste, for eg, time he/she spends on a particular destination - taken from cursor hovering time, viewing more images of 1 category, or patterns of dissatisfaction as a feedback for the system. This helps us to understand the user requirements better.
 
-![Diagram of the architecture](TravelVistaDiagram.png)
+![Diagram of the architecture](TravelVistaImplementation.png)
